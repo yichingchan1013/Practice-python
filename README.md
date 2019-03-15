@@ -1,7 +1,7 @@
 # Self-Learn Coding
 
 ## Resources
-- Coursera: IBM Data Science Professional Certificate Specialization
+- Coursera: [IBM Data Science Professional Certificate Specialization](https://www.coursera.org/specializations/ibm-data-science-professional-certificate)
 
 ## Progress Report
 ### 3/15 Data Visualizaion
