@@ -9,7 +9,7 @@
   - [ ] Data Wrangling
   - [ ] Exploratory Data Analysis
 - IBM data visualization:
-  - [X]Introduction to Matplotlib and Line Plots
+  - [X] Introduction to Matplotlib and Line Plots
   - [ ] Area Plots, Histograms, and Bar Plots
   - [ ] Pie Charts, Box Plots, Scatter Plots, and Bubble Plots
   - [ ] Waffle Charts, Word Clouds, and Regression Plots
